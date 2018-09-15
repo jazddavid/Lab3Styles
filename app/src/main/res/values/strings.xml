@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab3 - Styles And Material Designs</string>
+
+    <string name="title">HIKE Manila</string>
+    <string name="location">Location: Manila, Luzon </string>
+    <string name="distance">Distance From UST: 3.7km  </string>
+
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+</resources>
